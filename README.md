@@ -24,16 +24,15 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a Backend Developer from Russia.
-
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+### About :
+Welcome to my GitHub repository! 
+Here, you'll find a collection of projects, code snippets, and resources that reflect our passion for innovation, collaboration, and creativity.
+Whether you're a seasoned developer, a curious enthusiast, or someone eager to learn, 
+we invite you to explore, contribute, and engage with my work. 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="50" height="50"/>&nbsp;
@@ -58,6 +57,7 @@ I am a Backend Developer from Russia.
 ![Leetcode Stats](https://leetcard.jacoblin.cool/gvozdikovich?theme=unicorn)
 
 
+Thank you for visiting our GitHub account. Happy coding!
 
 <!--
 **gvozdik97/gvozdik97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
