@@ -32,6 +32,20 @@ we invite you to explore, contribute, and engage with my work.
 
 ---
 
+### Projects 
+TODO:
+Project Name
+Description: [Brief description of the project]
+
+Repository: [Link to the repository]
+
+Project Name
+Description: [Brief description of the project]
+
+Repository: [Link to the repository]
+
+---
+
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;
